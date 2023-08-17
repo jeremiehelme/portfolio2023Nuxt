@@ -1,2 +1,16 @@
 @import url("accessibility.css");
 @import url("colors.scss");
+@import url("fonts.scss");
+
+
+:root {
+  --max-width: 1024px;
+}
+
+.max-site-width {
+  max-width: var(--max-width);
+}
+
+.max-half-width {
+  max-width: calc(var(--max-width)/2);
+}
