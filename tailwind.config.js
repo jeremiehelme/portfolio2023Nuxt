@@ -26,19 +26,21 @@ module.exports = {
       },
       fontSize: {
         "sm": "0.625rem",
-        "base": "0.875rem",
-        "md": "1rem",
+        "base": "1rem",
+        "md": "1.1rem",
         "lg": "1.25rem",
-        "xl": "2.2rem",
-        "3xl": "3rem",
+        "xl": "1.4rem",
+        "2xl": "2.75rem",
+        "3xl": "5rem",
       },
       lineHeight: {
         "sm": "0.625rem",
-        "md": "1rem",
-        "lg": "1.5rem",
-        "xl": "2.2rem",
-        "3xl": "3rem",
-        "7xl": "4.5rem",
+        "base": "1rem",
+        "md": "1.1rem",
+        "lg": "1.25rem",
+        "xl": "1.4rem",
+        "2xl": "2.3rem",
+        "3xl": "5rem",
       },
       borderRadius: {
         'md': '0.625rem',
@@ -49,7 +51,8 @@ module.exports = {
         'lg': '6.25rem'
       },
       fontFamily: {
-        'sans': ['Roboto', 'sans-serif']
+        'sans': ['Roboto', 'sans-serif'],
+        'karla': ['Karla', 'sans-serif']
       },
     },
   },

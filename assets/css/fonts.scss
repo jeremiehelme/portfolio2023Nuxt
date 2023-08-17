@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Karla';
+  src: url('@/assets/font/karla/Karla-Regular.woff') format('woff'),
+    url('@/assets/font/karla/Karla-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Karla';
+  src: url('@/assets/font/karla/Karla-Bold.woff') format('woff'),
+    url('@/assets/font/karla/Karla-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
